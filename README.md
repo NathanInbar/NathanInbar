@@ -1,11 +1,11 @@
 <p align="center">
-      <img src="/media/header_anim.gif" />
+      <a href="https://github.com/NathanInbar"><img src="/media/header_anim.gif" /></a>
 </p>
 
 <pre>
 
 🤹‍♂️ My skills include...
-      <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanInbar&layout=compact&hide_title=true&langs_count=4&theme=tokyonight" /></p>
+      <p align="center"><a href="https://github.com/NathanInbar/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanInbar&layout=compact&hide_title=true&langs_count=4&theme=tokyonight" /></a></p>
     
 📚 I've mostly worked with...
 
@@ -15,7 +15,7 @@
 
     
 🏆 And the project I'm most proud of is...
-    <p align="center"/><img src="https://github-readme-stats.vercel.app/api/pin/?username=NathanInbar&repo=ConsciousCamper&theme=tokyonight" /></p>
+    <p align="center"/><a href="https://github.com/NathanInbar/ConsciousCamper" /><img src="https://github-readme-stats.vercel.app/api/pin/?username=NathanInbar&repo=ConsciousCamper&theme=tokyonight" /></a></p>
 </pre>
 
 You can read more about what I'm working on here: \
@@ -25,7 +25,9 @@ And you can contact me at: \
   📧<a href="mailto:nathaninbar@gmail.com"> nathaninbar@gmail.com </a>
   
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NathanInbar&count_private=true&show_icons=true&hide_title=true&theme=tokyonight" />
+  <a href="https://github.com/NathanInbar">
+    <img src="https://github-readme-stats.vercel.app/api?username=NathanInbar&count_private=true&show_icons=true&hide_title=true&theme=tokyonight" />
+  </a>
 </p>
 
 <hr/>
