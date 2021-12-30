@@ -1,3 +1,6 @@
+<p align="center">
+      <img src="/media/header_anim.gif" />
+</p>
 
 <pre>
 
