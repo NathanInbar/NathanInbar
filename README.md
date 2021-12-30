@@ -19,7 +19,7 @@
 </pre>
 
 You can read more about what I'm working on here: \
-  🕸️<a href="nathaninbar.github.io"> nathaninbar.github.io </a>
+ <a href="https://nathaninbar.github.io/"><span>🕸️nathaninbar.github.io</span></a>
 
 And you can contact me at: \
   📧<a href="mailto:nathaninbar@gmail.com"> nathaninbar@gmail.com </a>
