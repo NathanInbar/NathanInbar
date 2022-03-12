@@ -22,7 +22,7 @@ Here's my resume: \
 📜<a href="https://github.com/NathanInbar/NathanInbar/blob/main/Nathan_Inbar_Resume_2022.pdf"><span>Nathan Inbar - Resume 2022</span></a>
 
 You can read more about what I'm working on here: \
- <a href="https://nathaninbar.github.io/"><span>🕸️nathaninbar.github.io</span></a>
+ <a href="https://nathaninbar.github.io/"><span>🕸️nathaninbar.com</span></a>
 
 And you can contact me at: \
   📧<a href="mailto:nathaninbar@gmail.com"> nathaninbar@gmail.com </a>
