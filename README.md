@@ -19,7 +19,7 @@
 </pre>
 
 Here's my resume: \
-📜<a href="https://github.com/NathanInbar/NathanInbar/blob/main/Nathan_Inbar_Resume_2022.pdf"><span>Nathan Inbar - Resume 2022</span></a>
+📜<a href="https://github.com/NathanInbar/NathanInbar/blob/main/Inbar_Resume_Dec2025.pdf"><span>Nathan Inbar - Resume 2025</span></a>
 
 You can read more about what I'm working on here: \
  <a href="https://nathaninbar.github.io/"><span>🕸️nathaninbar.com</span></a>
